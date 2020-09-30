@@ -2,7 +2,7 @@
   <img src="artwork/feature.gif">
 </p>
 
-# Android Floating Tutorial Activity
+# Android Floating Tutorial Activity - An Amazing Project
 
 This is a simple, easy-to-implement, and highly customizable framework for making a quick tutorial or showing some kind of alert within your app. I used this style of tutorial/dialog in a few places for my app [Pulse SMS](https://play.google.com/store/apps/details?id=xyz.klinker.messenger) and really enjoyed the UX that it brought. It is simple, doesn't get in the user's way, and looks nice. In Pulse, I used it for the login page, prompting the user to rate the app, and walking them through the purchase process, but there is no end to the number of use-cases for an app!
 
